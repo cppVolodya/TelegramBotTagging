@@ -1,0 +1,2 @@
+include_directories(SYSTEM ${VCPKG_INSTALLED_DIR}/${VCPKG_TARGET_TRIPLET}/include)
+include_directories(SYSTEM ${BSHOSHANY_THREAD_POOL_INCLUDE_DIRS})

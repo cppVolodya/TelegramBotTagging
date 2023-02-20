@@ -1,0 +1,3 @@
+include(cmake_lists/configure_os/configure_linux/configure_build/CMakeLists.txt)
+include(cmake_lists/configure_os/configure_linux/set_architecture_specific_options/CMakeLists.txt)
+include(cmake_lists/configure_os/configure_linux/set_target_libraries/CMakeLists.txt)

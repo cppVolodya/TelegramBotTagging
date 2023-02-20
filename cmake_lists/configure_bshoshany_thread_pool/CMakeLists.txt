@@ -1,0 +1,3 @@
+if(NOT DEFINED BSHOSHANY_THREAD_POOL_INCLUDE_DIRS)
+    set(BSHOSHANY_THREAD_POOL_INCLUDE_DIRS "${PROJECT_SOURCE_DIR}/libraries/bshoshany_thread_pool/include")
+endif()

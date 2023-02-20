@@ -1,0 +1,10 @@
+file(GLOB_RECURSE SOURCES_FILES "sources/*.cpp")
+file(GLOB_RECURSE HEADERS_FILES "headers/*.hpp")
+
+if(CMAKE_SYSTEM_NAME STREQUAL "Windows")
+	set(GLOB_RECURSE CONFIG_FILES_FOR_WINDOWS config/windows/*.hpp)
+endif()
+
+set(PROGRAM_FILES ${SOURCES_FILES}
+       			  ${HEADERS_FILES}
+				  ${CONFIG_FILES_FOR_WINDOWS})

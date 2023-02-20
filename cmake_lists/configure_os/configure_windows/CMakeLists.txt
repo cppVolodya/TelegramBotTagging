@@ -1,0 +1,4 @@
+include(cmake_lists/configure_os/configure_windows/configure_build/CMakeLists.txt)
+include(cmake_lists/configure_os/configure_windows/set_compiler_options/CMakeLists.txt)
+include(cmake_lists/configure_os/configure_windows/set_architecture_specific_options/CMakeLists.txt)
+include(cmake_lists/configure_os/configure_windows/set_target_libraries/CMakeLists.txt)

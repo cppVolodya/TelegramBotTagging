@@ -1,0 +1,7 @@
+if(CMAKE_SYSTEM_NAME STREQUAL "Linux")
+    include(cmake_lists/configure_os/configure_linux/CMakeLists.txt)
+elseif(CMAKE_SYSTEM_NAME STREQUAL "Windows")
+	include(cmake_lists/configure_os/configure_windows/CMakeLists.txt)
+else()
+    message(FATAL_ERROR "Unsupported operating system: ${CMAKE_SYSTEM_NAME}")
+endif()
