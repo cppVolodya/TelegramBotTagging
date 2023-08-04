@@ -18,11 +18,11 @@
 
 "Telegram Bot Tagging" is a Telegram bot server designed to mention or tag users in a group.
 
-![BotIcon](https://github.com/cppVolodya/tasks/assets/103601559/c6e60358-1154-4057-b6bf-e79ba8a66996)
+![BotIcon](https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/4e0715f3-3d2e-4167-9054-1975d0b0ae5e)
 
 ## Logo
 
-![LogoIcon](https://github.com/cppVolodya/tasks/assets/103601559/f7af9392-63b7-4dbf-8bfa-c75fcaa93f5a)
+![LogoIcon](https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/e7af3872-975c-46c2-8410-bfaebc633149)
 
 ## Acknowledgements
 
@@ -54,43 +54,43 @@
 
 - Initial launch of the program(request a token and save it):
 
-https://github.com/cppVolodya/tasks/assets/103601559/ed2bc787-28ac-4d3b-94ae-f5f84bc9b622
+https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/28abbf89-be21-4adc-b6be-ea17b1892121
 
 - Rejection of initial requests from users:
 
-https://github.com/cppVolodya/tasks/assets/103601559/0d2475b0-52ca-4f96-8e35-51cc4a9f91b6
+https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/0298de22-f0a4-4746-8a30-093a77748be2
 
 - Interaction with the bot in a private chat:
 
-https://github.com/cppVolodya/tasks/assets/103601559/bc07e012-e7ef-4a42-b7fe-3d9b11c1ee4b
+https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/b64ccee8-d2b4-4638-a40a-922498407d8e
 
 - Сommand start:
 
-https://github.com/cppVolodya/tasks/assets/103601559/2b5e7528-07a4-4513-ab23-620d3a0f53a0
+https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/6cfd892e-246c-4d17-896c-7b8484b2bc75
 
 - Сommand help:
 
-https://github.com/cppVolodya/tasks/assets/103601559/3a231a57-8a1a-439b-84e2-186bba1a4221
+https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/f1497343-3dca-4eb2-a83b-776840993472
 
 - Сommand sign:
 
-https://github.com/cppVolodya/tasks/assets/103601559/738314e8-293d-4b06-9925-9fda225a1d1f
+https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/89e2da16-e535-4e5d-890a-1ec2bc80cdcd
 
 - Command tag:
 
-https://github.com/cppVolodya/tasks/assets/103601559/0685978a-31f3-4c5c-b40b-3db7e11950e7
+https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/95c53488-8b54-4269-8da3-5198f1fd6789
 
 - Command settings:
 
-https://github.com/cppVolodya/tasks/assets/103601559/ddfdd8ed-1d69-49a5-8c61-8b7210945379
+https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/08a19145-8985-41e4-a7ae-ac3cd55eea79
 
 - Log file data:
 
-https://github.com/cppVolodya/tasks/assets/103601559/6c805963-103b-4169-b65f-90488111e290
+https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/c2a96d45-4b78-4306-a202-cca9845dfbad
 
 - Database display:
 
-https://github.com/cppVolodya/tasks/assets/103601559/8a475bbd-ffb6-45f3-9de6-1138f9a7908f
+https://github.com/cppVolodya/TelegramBotTagging/assets/103601559/4afa79a0-91a2-401e-b9a6-658111aa0a48
 
 ## Installation
 
